@@ -2,7 +2,7 @@
 
 My name is Hifki Yuda Pratama, from Bandung, Indonesia
 
-- 🔭 I’m currently studying at Pasundan University
+- 🔭 I’m currently studying at Universitas Pasundan
 - 🌱 I’m currently learning about JavaScript and React
 - 📫 How to reach me:
 
