@@ -13,4 +13,4 @@ My name is Hifki Yuda Pratama, from Bandung, Indonesia
   <a href="https://reactjs.org/"><img align="left" alt="React.js" title="React.js" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
   <a href="https://vuejs.org/"><img align="left" alt="Vue.js" title="Vue.js" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/180px-Vue.js_Logo_2.svg.png" /></a>
   <a href="https://nuxt.com/"><img align="left" alt="Nuxt.js" title="Nuxt.js" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/768px-Nuxt_logo.svg.png?20201218211241" /></a>
-    <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/768px-Tailwind_CSS_logo.svg" /></a>
+    <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" /></a>
