@@ -1,10 +1,12 @@
-# Hi, There :wave:
+# Hi :wave:
 
 My name is Hifki Yuda Pratama, from Bandung, Indonesia.
 
 #### Tech Stack
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React.js" title="React.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
+<a href="https://www.typescriptlang.org/"><img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React.js" title="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
 <a href="https://vuejs.org/"><img align="left" alt="Vue.js" title="Vue.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/180px-Vue.js_Logo_2.svg.png" /></a>
-<a href="https://nuxt.com/"><img align="left" alt="Nuxt.js" title="Nuxt.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/768px-Nuxt_logo.svg.png?20201218211241" /></a>
-<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" /></a>
+<a href="https://nuxt.com/"><img align="left" alt="Nuxt.js" title="Nuxt" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/768px-Nuxt_logo.svg.png?20201218211241" /></a>
+<a href="https://nextjs.org"><img align="left" alt="Nuxt.js" title="Next.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="TailwindCSS" title="Tailwind CSS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" /></a>
